@@ -1,3 +1,5 @@
+// Эта программа является учебным примером
+// Холчев Никита кэ-217
 #include <iostream>
 using namespace std;
 int main() {
